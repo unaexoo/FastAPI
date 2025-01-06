@@ -1,7 +1,3 @@
-# 내용 정리
-
-1장 FastAPT 개발준비 ~ 2장 개발 기초 공사<2-04 질문 목록 API 만들기>
-
 # 1장 개발 준비
 
 [파일명: projects/myapi/main.py]
